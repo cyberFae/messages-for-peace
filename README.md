@@ -3,4 +3,6 @@ Displays a popup on your site (ONLY if being visited from a user whose browser l
 
 Just include this javascript code on your website to display.  
 
+Credit to a Russian for translating and a Ukranian for help with the idea.
+
 Solidarity.  ☮️❤️
